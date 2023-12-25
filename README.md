@@ -2,7 +2,7 @@
 * A.A.S. Software development
 * Working with Linux as much as possible, and learning Windows through work
 * Mainly using Rust & Bash. Although I also know JS, TS, Java, SQL, & Lua
-  * Also know some: C#, C++, Python, Powershell, Google Script
+  * Also know some: C#, C++, Python, Powershell, Google Script, etc
 
 ### Interesting Facts
 * Have installed Arch (or Artix) linux from the command line 3 times!
