@@ -1,10 +1,14 @@
-## About Me
+# About Me
 * A.A.S. Software development
 * Working with Linux as much as possible, and learning Windows through work
-* Mainly using Rust & Bash. Although I also know JS, TS, Java, SQL, & Lua
-  * Also know some: C#, C++, Python, Powershell, Google Script, etc
+* Using Rust and Bash as much as posible.
 
-### Interesting Facts
-* Have installed Arch (or Artix) linux from the command line 3 times!
-* I use neovim as my main IDE
-* I love making my projects as reproducable and durable as possible. Thanks Docker + Proxmox <3
+## Skillset
+### Languages (Ordered by comfort level)
+* Rust, Bash, Java, TS, JS, SQL, Go, Lua, C++, C#, Python
+### Systems
+* Linux [debian / arch], Windows, Docker, Proxmox
+
+### Workflow
+* Neovim
+* Artix Linux (s6 initsystem)
