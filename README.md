@@ -10,5 +10,5 @@
 * Linux [debian / arch], Windows, Docker, Proxmox
 
 ### Workflow
-* Neovim ((config)[https://git.oliveratkinson.net/Oliver/config/src/branch/main/.config/nvim])
+* Neovim ([config](https://git.oliveratkinson.net/Oliver/config/src/branch/main/.config/nvim))
 * Artix Linux (s6 initsystem)
