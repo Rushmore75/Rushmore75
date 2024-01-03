@@ -4,7 +4,7 @@
 * Using Rust and Bash as much as posible.
 
 ## Skillset
-### Languages (Ordered by comfort level)
+### Languages
 * Rust, Bash, Java, TS, JS, SQL, Go, Lua, C++, C#, Python
 ### Systems
 * Linux [debian / arch], Windows, Docker, Proxmox
