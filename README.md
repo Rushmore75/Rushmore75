@@ -5,7 +5,7 @@
 
 ## Skillset
 ### Languages
-* Rust, Bash, Java, TS, JS, SQL, Go, Lua, C++, C#, Python
+* Rust, Bash, Java, JS, TS, PowerShell, SQL, Go, Lua, C++, C#, Python
 ### Systems
 * Linux [debian / arch], Windows, Docker, Proxmox
 
