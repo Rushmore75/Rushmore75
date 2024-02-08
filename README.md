@@ -1,6 +1,6 @@
 # About Me
 * A.A.S. Software development
-* Working with Linux as much as possible, and learning Windows through work
+* Working with Linux, my love <3. Windows when I have to (reaching for WSL ASAP)
 * Using Rust and Bash as much as posible.
 
 ## Skillset
