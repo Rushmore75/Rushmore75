@@ -14,4 +14,4 @@
 * Artix Linux (s6 initsystem)
 
 # The rest of my code:
-(Over here on gitea)[https://git.oliveratkinson.net/Oliver?tab=repositories]
+[Over here on gitea](https://git.oliveratkinson.net/Oliver?tab=repositories)
