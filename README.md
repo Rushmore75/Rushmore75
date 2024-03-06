@@ -12,3 +12,6 @@
 ### Workflow
 * Neovim ([config](https://git.oliveratkinson.net/Oliver/config/src/branch/main/.config/nvim))
 * Artix Linux (s6 initsystem)
+
+# The rest of my code:
+(Over here on gitea)[https://git.oliveratkinson.net/Oliver?tab=repositories]
